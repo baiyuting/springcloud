@@ -1,5 +1,6 @@
 package com.example.servicefeign;
 
+import com.netflix.ribbon.proxy.annotation.Hystrix;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker;
@@ -12,6 +13,7 @@ import org.springframework.cloud.netflix.hystrix.dashboard.EnableHystrixDashboar
 @EnableDiscoveryClient
 @EnableFeignClients
 @EnableHystrixDashboard
+@EnableHystrix
 public class ServiceFeignApplication {
 
 	public static void main(String[] args) {
