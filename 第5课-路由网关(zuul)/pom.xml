@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.baiyuting</groupId>
-    <artifactId>bai04hystrix</artifactId>
+    <artifactId>bai05zuul</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 
