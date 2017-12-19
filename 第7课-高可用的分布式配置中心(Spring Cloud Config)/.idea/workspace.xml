@@ -304,7 +304,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SpringCloudLearning/chapter7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../第8课-消息总线(Spring Cloud Bus)" />
     <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.AboutConfigurable" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -465,7 +465,7 @@
       <option name="presentableId" value="Default" />
       <updated>1513587021278</updated>
       <workItem from="1513587049447" duration="4660000" />
-      <workItem from="1513591809489" duration="2730000" />
+      <workItem from="1513591809489" duration="2835000" />
     </task>
     <task id="LOCAL-00001" summary="第6课-分布式配置中心(Spring Cloud Config) 完成">
       <created>1513590939916</created>
@@ -485,7 +485,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7390000" />
+    <option name="totallyTimeSpent" value="7495000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
